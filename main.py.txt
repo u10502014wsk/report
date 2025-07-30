@@ -1,0 +1,5 @@
+  
+# 這是一個範例程式碼（僅供參考）
+def analyze_judgment(text):
+    # 模擬 AI 分析結果
+    return {"syntax": "語法解析結果", "translation": "現代白話文"} 

@@ -1,0 +1,3 @@
+# 工具函式範例
+def save_to_database(data):
+    print("已儲存到資料庫")
