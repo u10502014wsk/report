@@ -1,3 +1,2 @@
-bert-serving==1.10.0  
-hanlp==2.1.1  
-mysql-connector-python==8.0.28  
+with:
+  source: .
