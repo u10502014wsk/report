@@ -1,2 +1,1 @@
-with:
-  source: .
+pip freeze > requirements.txt
