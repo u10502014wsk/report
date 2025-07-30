@@ -1,0 +1,6 @@
+# 忽略 Python 依赖库的安装文件
+/venv/
+__pycache__/
+*.pyc
+*.whl
+*.egg
